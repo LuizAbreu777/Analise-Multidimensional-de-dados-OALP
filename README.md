@@ -10,7 +10,7 @@ Interface moderna com paleta de cores **Preto + Amarelo**, layout dinâmico e vi
 
 ### Sistema Operacional
 - **macOS** ✅ (já está usando)
-- **Windows** 
+- **Windows** ✅
 - **Linux**
 
 ### Python
