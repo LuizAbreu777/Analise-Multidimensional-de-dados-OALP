@@ -1,4 +1,4 @@
-# 📊 Análise Multidimensional de Dados (OLAP)
+# 📊 Análise Multidimensional de Dados (multidim-OLAP)
 
 Aplicação desktop para análise multidimensional de vendas usando conceitos OLAP (On-Line Analytical Processing).
 
